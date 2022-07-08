@@ -11,6 +11,9 @@
 *.obj
 *.elf
 
+# Binarys
+a.out
+
 # Linker output
 *.ilk
 *.map
